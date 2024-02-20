@@ -1,6 +1,6 @@
 from random import choice
 
-percent_rain = [32, 95, 94, 78, 30, 49, 10, 30, 90, 40, 67]
+percent_rain = [32, 95, 94, 78, 30, 49, 10, 30, 90, 40, 67, 80]
 
 resps = []
 
